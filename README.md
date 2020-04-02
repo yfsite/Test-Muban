@@ -9,7 +9,7 @@
 <code>vmess://eyJwcyI6IltmcmVlLXNzLnNpdGVdd3d3Lmtlcm5lbHMuYmlkIiwiYWRkIjoid3d3Lmtlcm5lbHMuYmlkIiwicG9ydCI6IjQ0MyIsImlkIjoiMzdlNGExMTMtMjIxOS04NTk4LTM3ZDctYTMzZDVkNWUxYzFlIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiL3dzIiwidGxzIjoidGxzIn0=</code>
 <p>
 <code>vmess://eyJwcyI6IltmcmVlLXNzLnNpdGVdd3d3Lmtlcm5lbHMuYmlkIiwiYWRkIjoid3d3Lmtlcm5lbHMuYmlkIiwicG9ydCI6IjgwIiwiaWQiOiJmZjIzNWI4MS1hOGM0LWRlYmEtMTIyNy04YTdkOTk4NTUzNDEiLCJhaWQiOiIwIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIvd3MiLCJ0bHMiOiJub25lIn0=</code>
-<p>ss://cmM0Om50ZHR2LmNvbUAxNjIuMjQ1LjIzOS42ODo3Nzc=
+<p><code>ss://cmM0Om50ZHR2LmNvbUAxNjIuMjQ1LjIzOS42ODo3Nzc=</code>
 <p>
 <code>ss://cmM0OmxuY24ub3JnIDY2b0A0Ny4yNDAuOTAuNTY6Mjk5NzY=</code>
 <p>
